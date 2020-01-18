@@ -1,0 +1,20 @@
+body{
+    background-color: #49C5BF;
+}
+.navigate{
+    background-color: #49C5BF;
+}
+.main-body{
+    background-color: #49C5BF;
+    margin-top: 15%;    
+}
+.form-control{
+    margin-top: 2%;
+    display: inline-block;
+    width: 60%;
+    margin-left:15%;
+}
+.btn{
+    margin-bottom: 0.3%;
+    display: inline-block;
+}
